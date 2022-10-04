@@ -26,7 +26,7 @@ able to connect with GitHub.
    
 10. Rename “untitled” with the name you want
 
-   For example,
+    For example,
     ``` C:\IS117Download\Webstorm\untitled``` becomes ```C:\IS117Download\Webstorm\IS117DemoS20 ```
 
 11. Click ‘Create’
@@ -127,7 +127,7 @@ describes what changes you made
 
 
 
-###### References
+###### <u>References</u> 
 
 https://docs.github.com/en/get-started/quickstart/github-glossary
 
