@@ -14,7 +14,7 @@ able to connect with GitHub.
 
 4. On the left side of the screen you will see a panel. Click Version Control > GIT 
  
-5. Change the Path to Git executable to C:\Program Files\Git\bin\git.exe. By clicking on the folder icon next to Test
+5. Change the Path to Git executable to ```C:\Program Files\Git\bin\git.exe``` By clicking on the folder icon next to Test
 
 6. Click Test to make sure that Webstorm is connected to Git.
 
