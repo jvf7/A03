@@ -2,6 +2,7 @@
 1. In order to use GitHub we will first need to create
 a GitHub account and download Webstorm and Git to be 
 able to connect with GitHub.
+
    2. You create a GitHub account at https://github.com/join
    3. To Download and Install the latest Git navigate to https://git-scm.com/downloads
    4. To Download and Install Webstorm navigate to https://www.jetbrains.com/webstorm/
