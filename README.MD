@@ -93,3 +93,47 @@ able to connect with GitHub.
 
 
 
+# Glossary
+**Branch**: A branch is created when you work on the repository. This allows you 
+to freely work without disrupting or affecting the master branch or project contents. 
+When you've committed the changes it merges your work into the main branch to publish 
+your changes. These changes are then updated and accessed when the repository is pulled
+into any local machine.
+
+**Clone**: The action of downloading or copying a repository that exists in your 
+GitHUb account online to your local machine
+
+**Commit**: The action of saving your work, that contains a commit message that briefly
+describes what changes you made
+
+**Fetch**: A command used to retrieve las test changes without transferring the data to your local machine. It is similar to Google Doc’s history when you can see who added/removed changes without affecting the document.
+
+**GIT**: an open source program that keeps track of changes made in text files
+
+**Github**: an open source, social and user interface that is built on Git and allows the ability for multiple users to collaborate on Git repositories
+
+**Merge**: The action of synchronizing your GitHub account and your local machine
+
+**Merge Conflict**: occurs when you are trying to merge, but you and/or someone else made different changes to same line of the same file, or you edit a file and either you or someone else deletes that file and it’s no longer found in the repository
+
+**Pull**: the action of getting changes from a remote file to your local machine
+
+**Push**: this uploads all the changes made and committed to your GitHub
+
+**Remote**: a repository that is found online in GitHub that is used to create local versions to your (or team members’) local machine
+
+**Repository**: They act like project folders that contain all the files, documentation, and store each of the revision history that can either be public or private.
+
+
+
+###### References
+
+https://docs.github.com/en/get-started/quickstart/github-glossary
+
+https://training.github.com/downloads/github-git-cheat-sheet.pdf
+
+https://www.freecodecamp.org/news/git-fetch-vs-pull/
+
+Canvas File ExtraInstallationInstructions-20200214.pdf
+
+Canvas File Introduction to Github and Webstorm.pptx 
